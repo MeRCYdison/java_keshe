@@ -1,0 +1,17 @@
+breed n.(动物)品种
+Heaven n.上帝，神
+flannel n.法兰绒；法兰绒衣服
+waver vi.摇摆；犹豫不决
+utensil n.器皿，用具
+incline n.坡度
+supersonic a.超声的，超声速的
+validity n.有效，效力；正确
+rally n.&vt.&vi.(重新)集合
+second vt.支持
+assault vt.袭击；殴打
+jelly n.冻，果子冻；胶状物
+radiator n.暖气片，散热器
+arc n.弧，弓形物；弧光
+cutter n.用于切割的器械
+blunder vi.犯大错
+infinite n.无限；无穷(大)
